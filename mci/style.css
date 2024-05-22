@@ -1,0 +1,19 @@
+body {
+    color: aliceblue;
+    font-size: 20px;
+  }
+
+  .contenedor {
+    width: 30%;
+    height: 300px;
+    background-color: blueviolet;
+  }
+
+  .centrado {
+    margin: 0 auto;
+  }
+
+  #uno div {
+    height: 50px;
+    background-color: rgb(110, 163, 57);
+  }

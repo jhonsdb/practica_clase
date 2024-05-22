@@ -1,0 +1,10 @@
+#fondo { width: 44rem;
+    height: 28.3rem;
+          /* background-color: aqua;  */
+    background-image: url("imagenes/lekumberri-navarra.jpg");  
+    background-repeat: no-repeat;
+
+}
+
+button {margin: 0.3rem;
+   }
